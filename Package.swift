@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-// Version 1.0.0
+// Version 1.1.0
 let package = Package(
     name: "AnyManagerMediationSDK",
     platforms: [.iOS(.v13)],

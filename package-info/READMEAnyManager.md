@@ -11,3 +11,4 @@ A powerful and modular ad mediation layer that integrates AppLovin, Unity, Googl
 ## Integration
 
 Just add it via Swift Package Manager using the Git URL.
+

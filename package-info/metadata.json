@@ -1,0 +1,21 @@
+{
+  "version": "1.1.0",
+  "title": "AnyManagerMediationSDK",
+  "description": "Modular ad mediation package supporting AppLovin, Unity, AdMob, and more.",
+  "keywords": ["ads", "mediation", "AppLovin", "Unity", "AdMob"],
+  "authors": [
+    {
+      "name": "AnyMind Group",
+      "email": "dev@anymindgroup.com",
+      "url": "https://anymindgroup.com"
+    }
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "logo": {
+    "image": "logo.png",
+    "link": "https://anymindgroup.com"
+  }
+}
